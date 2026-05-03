@@ -44,9 +44,9 @@ C++과 Unreal Engine 5를 중심으로 게임플레이 시스템을 개발합니
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |---|---|---|---|
-| **TINYSCAPE** | 스팀 리슨 서버 기반 4인 멀티 협동 생존 게임 | UE5.6 · C++ · Steam Listen Server | [GitHub](#) · [YouTube](#) |
+| **TINYSCAPE** | 리슨 서버 4인 멀티 협동 생존 게임 | UE5.6 · C++ · Steam Listen Server | [GitHub](#) · [YouTube](#) |
 | **Dragon Survivors** | 싱글 플레이어 뱀서라이크 로그라이트 액션 게임 | UE5.5 · C++ · GAS | [GitHub](#) · [YouTube](#) |
-| **DungeonZero** | 팀 프로젝트 (진행 중) | UE5 · C++ · GAS | [GitHub](#) |
+| **DungeonZero** | 리슨 서버 4인 멀티 이상현상 공포 게임 (진행 중) | UE5.7 · C++ · GAS | [GitHub](#) |
 
 ---
 
