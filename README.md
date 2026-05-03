@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# 안녕하세요, 게임 클라이언트 개발자 김세희입니다 👋
+# 안녕하세요, 게임 클라이언트 개발자 지망생 김세희입니다 👋
 
 C++과 Unreal Engine 5를 중심으로 게임플레이 시스템을 개발합니다.<br>
 플레이어가 직접 경험하고 반응하는 결과물을 만드는 것을 좋아합니다.
