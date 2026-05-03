@@ -53,6 +53,6 @@ C++과 Unreal Engine 5를 중심으로 게임플레이 시스템을 개발합니
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKim041&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKim041&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats-dusky-seven-23.vercel.app/api?username=SKim041&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" height="160"/>
+  <img src="https://github-readme-stats-dusky-seven-23.vercel.app/api/top-langs/?username=SKim041&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
 </p>
